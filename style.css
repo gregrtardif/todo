@@ -1,0 +1,76 @@
+body {
+    background-color: white;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(212, 5, 5);
+    text-shadow: 1.5px 2px white;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+
+
+h3 {
+    box-shadow: 2px 4px black;
+    text-align: center;
+}
+
+input {
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 10px solid black;
+    box-shadow: 4px 5px black;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+li {
+    box-shadow: 2px 4px black;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+li:hover {
+    background-color: black;
+    color: white;
+}
+
+.btn-outline-dark {
+    color: black;
+    border: 2px solid black;
+    box-shadow: 4px 5px black;
+    font-weight: bold;
+}
+
+.btn-ooutline-dark:hover {
+    color: black;
+
+
+}
+
+.done {
+
+    color: gray;
+    text-decoration: line-through;
+}
+
+#top {
+    background-color: black;
+
+}
